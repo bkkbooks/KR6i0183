@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0183_000.yaml, hash: 'sha256:cc29a777d0e29c0284f959e117f787932d8c698db43d76091166b67ce880398b'}
-  - {seq: 1, filename: KR6i0183_001.yaml, hash: 'sha256:8b2f80898c8e2efd493d5cf9fc576583e1c95d428b1476364b0b241fb8d3bc57'}
+  - {seq: 1, filename: KR6i0183_001.yaml, hash: 'sha256:846d9a88a8344cee2d0179fdcffe5518c256318c2895537bdddc8f3469bcf3b4'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0183_001.markers.yaml, hash: 'sha256:32f2a16126f51015e7bdd693b45bdd2d64126ff820f1cddb0740faef16bb4404'}
+  - {seq: 0, role: markers, filename: assets/KR6i0183_000.markers.yaml, hash: 'sha256:c6fd1287d39a25ca5782e5f196ef1f30db773693164fb9393d73f2bde02093d2'}
+  - {seq: 1, role: markers, filename: assets/KR6i0183_001.markers.yaml, hash: 'sha256:93c51fc7120fc44400142ab3436eb5210145d63e91cb279b612637ef03e6a3a7'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說摩登女解形中六事經
   type: juan
   level: 1
-hash: sha256:ec2e0cbb8c0a8a436541f7399a163e66e28eff97e005375e989476d6478af1c3
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:cb709ef71781007062403183efbe71adcb44d3c4949065f2b8a4686c4e6a9b80

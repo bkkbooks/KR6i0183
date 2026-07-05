@@ -8,7 +8,6 @@ markers:
   - {type: xml-element, offset: 0, content: '', id: KR6i0183_T_001-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': Translator}}
   - {type: variant, offset: 2, length: 1, content: 附, 元: 今附, 宮: 今附, 明: 人名今附}
   - {type: variant, offset: 3, length: 1, content: 東, 明: 西}
-  - {type: substitution, offset: 5, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: xml-element, offset: 6, content: '', id: KR6i0183_T_001-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': Translator}}
   - {type: line-break, offset: 6, content: '', id: KR6i0183_T_001-0895c21, ed: T, 'n': 0895c21}
   - {type: xml-element, offset: 6, content: '', id: pT14p0895c2101, name: p, role: open, attrs: {'xml:id': pT14p0895c2101}}
@@ -404,4 +403,4 @@ markers:
   - {type: xml-element, offset: 1022, content: '', id: pT14p0896b2415_end, name: p, role: close, attrs: {'xml:id': pT14p0896b2415, 'cb:place': inline}}
   - {type: line-break, offset: 1022, content: '', id: KR6i0183_T_001-0896b26, ed: T, 'n': 0896b26}
   back: []
-hash: sha256:32f2a16126f51015e7bdd693b45bdd2d64126ff820f1cddb0740faef16bb4404
+hash: sha256:93c51fc7120fc44400142ab3436eb5210145d63e91cb279b612637ef03e6a3a7
