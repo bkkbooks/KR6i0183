@@ -8,6 +8,7 @@ markers:
   - {type: xml-element, offset: 0, content: '', id: KR6i0183_T_001-bkkxmlele1, name: byline, role: open, attrs: {'cb:type': Translator}}
   - {type: variant, offset: 2, length: 1, content: 附, 元: 今附, 宮: 今附, 明: 人名今附}
   - {type: variant, offset: 3, length: 1, content: 東, 明: 西}
+  - {type: substitution, offset: 5, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: xml-element, offset: 6, content: '', id: KR6i0183_T_001-bkkxmlele2, name: byline, role: close, attrs: {'cb:type': Translator}}
   - {type: line-break, offset: 6, content: '', id: KR6i0183_T_001-0895c21, ed: T, 'n': 0895c21}
   - {type: xml-element, offset: 6, content: '', id: pT14p0895c2101, name: p, role: open, attrs: {'xml:id': pT14p0895c2101}}
@@ -321,6 +322,7 @@ markers:
   - {type: punctuation, offset: 806, content: ，, id: KR6i0183_T_001-bkkpn223}
   - {type: punctuation, offset: 812, content: ，, id: KR6i0183_T_001-bkkpn224}
   - {type: variant, offset: 816, length: 1, content: 㴃, 元: 泣, 明: 泣}
+  - {type: substitution, offset: 816, original: 㴃, replacement: 淚, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-2883}}
   - {type: punctuation, offset: 817, content: ，, id: KR6i0183_T_001-bkkpn225}
   - {type: line-break, offset: 818, content: '', id: KR6i0183_T_001-0896b13, ed: T, 'n': 0896b13}
   - {type: punctuation, offset: 824, content: ？, id: KR6i0183_T_001-bkkpn226}
@@ -403,4 +405,4 @@ markers:
   - {type: xml-element, offset: 1022, content: '', id: pT14p0896b2415_end, name: p, role: close, attrs: {'xml:id': pT14p0896b2415, 'cb:place': inline}}
   - {type: line-break, offset: 1022, content: '', id: KR6i0183_T_001-0896b26, ed: T, 'n': 0896b26}
   back: []
-hash: sha256:93c51fc7120fc44400142ab3436eb5210145d63e91cb279b612637ef03e6a3a7
+hash: sha256:c7864c3a8cc239f4cd54d69e1532e86394031e69a6474f83495c5c4ff3ac19ef
